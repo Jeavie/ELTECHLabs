@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeavie/CLionProjects/2/Array.cpp
+Array.h
+/Users/jeavie/CLionProjects/2/Array.h
+
+/Users/jeavie/CLionProjects/2/Array.h
+iostream
+-
+Helper.h
+/Users/jeavie/CLionProjects/2/Helper.h
+
+/Users/jeavie/CLionProjects/2/Bit.cpp
+
+/Users/jeavie/CLionProjects/2/Helper.cpp
+
+/Users/jeavie/CLionProjects/2/Helper.h
+
+/Users/jeavie/CLionProjects/2/main.cpp
+Array.h
+/Users/jeavie/CLionProjects/2/Array.h
+Helper.h
+/Users/jeavie/CLionProjects/2/Helper.h
+iostream
+-
+

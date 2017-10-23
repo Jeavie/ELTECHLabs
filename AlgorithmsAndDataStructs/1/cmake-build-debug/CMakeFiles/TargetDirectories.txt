@@ -1,0 +1,3 @@
+/home/matgod/study/AlgorithmsAndDataStructs/Alg_lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matgod/study/AlgorithmsAndDataStructs/Alg_lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matgod/study/AlgorithmsAndDataStructs/Alg_lab1/cmake-build-debug/CMakeFiles/Lab1.dir

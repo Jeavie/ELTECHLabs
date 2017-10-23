@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Lab1.dir/main.cpp.o CMakeFiles/Lab1.dir/mass.cpp.o CMakeFiles/Lab1.dir/spisok.cpp.o CMakeFiles/Lab1.dir/help_f.cpp.o CMakeFiles/Lab1.dir/bit.cpp.o CMakeFiles/Lab1.dir/bit_mass.cpp.o CMakeFiles/Lab1.dir/test_gen.cpp.o  -o Lab1 
