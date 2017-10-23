@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/1/main.cpp
+iostream
+-
+unsignedLong.h
+/Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/1/unsignedLong.h
+
+/Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/1/unsignedLong.h
+
