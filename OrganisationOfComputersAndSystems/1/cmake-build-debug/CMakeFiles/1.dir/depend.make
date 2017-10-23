@@ -4,3 +4,6 @@
 CMakeFiles/1.dir/main.cpp.o: ../main.cpp
 CMakeFiles/1.dir/main.cpp.o: ../unsignedLong.h
 
+CMakeFiles/1.dir/unsignedLong.cpp.o: ../unsignedLong.cpp
+CMakeFiles/1.dir/unsignedLong.cpp.o: ../unsignedLong.h
+
