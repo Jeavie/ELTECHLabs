@@ -1,3 +1,3 @@
-/home/matgod/study/OrgOfCompAndSystems/lab_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/matgod/study/OrgOfCompAndSystems/lab_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/matgod/study/OrgOfCompAndSystems/lab_2/cmake-build-debug/CMakeFiles/lab_2.dir
+/Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/2/cmake-build-debug/CMakeFiles/lab_2.dir

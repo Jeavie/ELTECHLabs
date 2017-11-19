@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/4
+-- Looking for wsyncup in /usr/lib/libcurses.dylib
+-- Looking for wsyncup in /usr/lib/libcurses.dylib - found
+-- Looking for cbreak in /usr/lib/libncurses.dylib
+-- Looking for cbreak in /usr/lib/libncurses.dylib - found
+-- Found Curses: /usr/lib/libncurses.dylib  
+CMake Error at CMakeLists.txt:11 (target_link_libraries):
+  Cannot specify link libraries for target "target" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/jeavie/CLionProjects/ELTECHLabs/OrganisationOfComputersAndSystems/4/cmake-build-debug/CMakeFiles/CMakeOutput.log".
