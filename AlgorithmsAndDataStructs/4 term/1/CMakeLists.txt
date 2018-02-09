@@ -3,5 +3,5 @@ project(1)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp screen.h shape.h s.h)
+set(SOURCE_FILES main.cpp screen.h sh.h shape.h conio.h)
 add_executable(1 ${SOURCE_FILES})

@@ -80,13 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/jeavie/CLionProjects/ELTECHLabs/AlgorithmsAndDataStructs/4 term/1/conio.h">
+			<Option target="1"/>
+		</Unit>
 		<Unit filename="/Users/jeavie/CLionProjects/ELTECHLabs/AlgorithmsAndDataStructs/4 term/1/main.cpp">
 			<Option target="1"/>
 		</Unit>
-		<Unit filename="/Users/jeavie/CLionProjects/ELTECHLabs/AlgorithmsAndDataStructs/4 term/1/s.h">
+		<Unit filename="/Users/jeavie/CLionProjects/ELTECHLabs/AlgorithmsAndDataStructs/4 term/1/screen.h">
 			<Option target="1"/>
 		</Unit>
-		<Unit filename="/Users/jeavie/CLionProjects/ELTECHLabs/AlgorithmsAndDataStructs/4 term/1/screen.h">
+		<Unit filename="/Users/jeavie/CLionProjects/ELTECHLabs/AlgorithmsAndDataStructs/4 term/1/sh.h">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="/Users/jeavie/CLionProjects/ELTECHLabs/AlgorithmsAndDataStructs/4 term/1/shape.h">
