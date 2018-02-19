@@ -9,7 +9,7 @@ public:
     void flip_horisontally() {};
     void flip_vertically() { reflected = !reflected; };
 };
- void h_circle ::draw() {
+ void h_circle :: draw() {
      int x0 = (sw.x + ne.x) / 2;
      int y0 = reflected ? sw.y : ne.y;
      int radius = (ne.x - sw.x) / 2;

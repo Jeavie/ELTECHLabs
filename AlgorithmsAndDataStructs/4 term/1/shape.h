@@ -81,7 +81,7 @@ public:
     virtual void rotate_right() = 0;
 };
 
-class reflectable : virtual  public shape { // фигуры, пригодные к зеркальному отражению
+class reflectable : virtual public shape { // фигуры, пригодные к зеркальному отражению
 public:
     virtual void flip_horisontallly() = 0;
     virtual void flip_vertically() = 0;
@@ -101,7 +101,7 @@ public:
     point seast() const { return point((w.x + e.x)/2, e.y < w.y ? e.y : w.y); }
     point nwest() const { return point((w.x + e.x)/2, e.y < w.y ? e.y : w.y); }
     point swest() const { return point((w.x + e.x)/2, e.y < w.y ? e.y : w.y); }
-    void move(int a, int b) {w.x += a; w.y +=b; e.x += a; e.y += b; }
+    void move(int a, int b) {w.x += a; w.y += b; e.x += a; e.y += b; }
     void draw() { put_line(w, e); }
     void resize (int d) { e.x += (e.x - w.x) * (d - 1); e.y += (e.y - w.y) * (d - 1); } // увеличение в (d) раз
 };
