@@ -1,6 +1,7 @@
+clc;
+clear;
 first = input('Please enter the first number: ' );
 second = input('Please enter the second number \n(Make sure the difference between them is more than 7): ' );
-check = 1;
 a = abs(first - second);
 if and (first < second, a > 7)
     x = first : 2 : second;
@@ -12,15 +13,14 @@ if and (first < second, a > 7)
     figure
     fplot(@sin,[first second])
     hold on
-    plot(xx, yy,'m')
+    plot(xx, yy, 'm')
     plot(x, y, 'ko')
     legend('sin', 'polynom')
-%     error = max(abs(sin(xx) - yy))
     r = first + (second - first) * rand;
-    rr = mLagrange(x,y,r);
+    rr = mLagrange(x, y, r);
     random_error = abs(sin(r) - rr)
     n=linspace(first, second, nodes);
-    theor_error=abs(prod(n-r))/fact
+    theor_error = max(abs((second - first)^(lenghtCheb + 1) * prod (n-r) * sin(x + (pi/2)*rem(length(x), 5))) /fact)
 else
     disp('Error: invalid values');
 end
