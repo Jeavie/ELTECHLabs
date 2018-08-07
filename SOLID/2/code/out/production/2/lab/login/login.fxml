@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Point3D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500" prefWidth="800" stylesheets="@../styles/login/main_login.css" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label alignment="CENTER" layoutX="356.0" layoutY="185.0" prefHeight="0.0" prefWidth="88.0" stylesheets="@../styles/login/label_login.css" text="Welcome" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Roboto Regular" size="20.0" />
+         </font>
+         <rotationAxis>
+            <Point3D />
+         </rotationAxis>
+      </Label>
+      <TextField focusTraversable="false" layoutX="344.0" layoutY="237.0" prefHeight="27.0" prefWidth="112.0" promptText="Enter password" stylesheets="@../styles/login/text_field_login.css">
+         <font>
+            <Font name="Roboto Regular" size="13.0" />
+         </font>
+      </TextField>
+      <Button alignment="CENTER" focusTraversable="false" layoutX="344.0" layoutY="280.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="112.0" stylesheets="@../styles/login/button_login.css" text="Log In" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Roboto Regular" size="13.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" focusTraversable="false" layoutX="342.0" layoutY="430.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="112.0" stylesheets="@../styles/login/button_login.css" text="Sign Up" />
+   </children>
+</AnchorPane>
